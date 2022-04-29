@@ -1,0 +1,35 @@
+.style {
+    width: 600px;
+    margin: auto;
+    background-color: rgb(254, 254, 254);
+}
+
+.txt {
+    margin: 30px;
+    font-size: 18px;
+    font-family: "Calibri";
+}
+h1 {
+    margin:  30px;
+    font-family: "Calibri";
+}
+.background {
+    background-color: rgb(240, 240, 240);
+    width: 640px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.txt_h {
+    background-color: rgb(247, 247, 247);
+    margin-top: 60px;
+    height: auto;
+    padding: 30px;
+    padding-bottom: 20px;
+}
+.icon {
+    width: 10px;
+}
+.txt_h2 {
+    margin-right: 10px;
+}
